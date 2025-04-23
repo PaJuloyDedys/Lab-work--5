@@ -14,7 +14,8 @@ body {
   color: #555;
   line-height: 1.6;
   padding: 4rem 2rem;
-  background-color: #f7e9df;
+  /* background-color: #f7e9df; */
+  background-color: red;
 }
 
 .resume-container {
